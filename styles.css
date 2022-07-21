@@ -7,12 +7,12 @@ body {
     text-align: center;
     font-family: Helvetica, sans-serif;
     color: white;
+    margin: 8px;
+    display: block;
 }
 
 main {
-    margin-left: 8px;
-    margin-right: 8px;
-    display: block;
+
 }
 @keyframes gradient {
 	0% {
@@ -30,9 +30,7 @@ main {
 header {
     color: red;
 }
-
 .funParagraphs {
-    background-color: black;
     color: green;
 }
 
